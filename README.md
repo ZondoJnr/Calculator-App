@@ -1,4 +1,4 @@
-# -example-repo
+# -The Calculator App
 HyperionDev task
 This code is for a simple calculator application called calc_app.py that performs and
 records simple calculations.
