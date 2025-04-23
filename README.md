@@ -1,5 +1,4 @@
-# -The Calculator App
-HyperionDev task:
+# -The Calculator 
 This code is for a simple calculator application called calc_app.py that performs and
 records simple calculations.
 The calculator application should allow users to perform a calculation or print
